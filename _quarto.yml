@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DSCI 522 Horse Report"
+  navbar:
+    left:
+      - href: reports/qmd_example.html
+        text: "Report"

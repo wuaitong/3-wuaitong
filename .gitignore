@@ -5,3 +5,5 @@
 **.jupyter/
 **.local/
 **.npm/
+/.quarto/
+**/*.quarto_ipynb
